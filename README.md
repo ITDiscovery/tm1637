@@ -5,3 +5,7 @@ Requres change to boot config file:
 sudo nano /boot/config.txt
 
 dtparam=i2c1=on
+
+or
+
+dtparam=i2c_arm=on
