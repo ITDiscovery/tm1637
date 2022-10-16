@@ -12,6 +12,6 @@ or
 dtparam=i2c_arm=on
 
 Install notes: 
-https://github.com/thilaire/rpi-TM1638.git
-cd rpi_TM1638
-sudo python3 setup.py install
+- https://github.com/thilaire/rpi-TM1638.git
+- cd rpi_TM1638
+- sudo python3 setup.py install
